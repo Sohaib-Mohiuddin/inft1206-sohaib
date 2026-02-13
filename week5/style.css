@@ -1,0 +1,46 @@
+* {
+    padding: 5px;
+}
+
+body {
+    border: 10px solid black;
+    background: lightslategray url("bg-graphic.png") 10px 10px repeat-x fixed;
+}
+
+h1 + p {
+    color: magenta;
+    font-size: 4em;
+}
+
+/* p {
+    font-size: 1.5em;
+    text-decoration-line: underline;
+} */
+
+p {
+    color: blueviolet;
+    list-style-type: square;
+    border: 1px solid black;
+    font-size: 1.5em;
+}
+
+/* #p1 {
+    color: blue;
+    color: pink;
+    color: grey;
+    color: indianred;
+} */
+
+.ptags {
+    color: red;
+}
+
+li em {
+    font-size: 2em;
+    color: green;
+}
+
+a:hover {
+    background-color: yellow;
+    text-decoration-line: overline;
+}
