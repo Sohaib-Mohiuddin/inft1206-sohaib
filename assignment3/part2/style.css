@@ -55,3 +55,19 @@ main section p {
     font-size: 1.2em;
 }
 
+/* Link Styling: States / Pseudoclasses */
+a:link {
+    color: #a35b5b;
+}
+a:visited {
+    color: #5c3636;
+}
+a:focus {
+    color: #9d7272;
+    text-decoration: none;
+}
+a:hover {
+    color: #d05151;
+    text-decoration: none;
+}
+
