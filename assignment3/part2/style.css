@@ -71,3 +71,21 @@ a:hover {
     text-decoration: none;
 }
 
+/* Navigation Menu Styling */
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    border: 1px solid #aa6666;
+    width: auto;
+    list-style-type: none;
+    text-align: center;
+    margin: 1em;
+    padding: 1em 4em 1em 4em;
+}
+nav ul li a {
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
