@@ -1,0 +1,36 @@
+body {
+    /* font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; */
+    font-family:'Courier New', Courier, sans-serif;
+}
+
+h1 {
+    border: 5px dotted magenta;
+    background-color: darkgray;
+    padding: 15px;
+    margin: 20px;
+}
+
+p {
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-decoration: underline overline wavy grey;
+    text-shadow: 2px 2px 5px;
+}
+
+ul {
+    list-style-type: upper-roman;
+    /* list-style: lower-greek inside url('https://cdn-gonef.nitrocdn.com/UbWAxHlpDDRAfYTBoCBfYvGZgzkfyWTb/assets/images/optimized/rev-d7b6478/seethewild.org/wp-content/uploads/2022/08/1-1-300x276-1.jpeg'); */
+
+}
+
+a:hover {
+    background-color: yellow;
+    font-size: 1.5rem;
+}
+a:visited {
+    color: red;
+    background-color: lightgray;
+    font-size: 1.2rem;
+}
