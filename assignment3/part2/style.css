@@ -41,3 +41,17 @@ footer {
 footer p {
   text-align: center;
 }
+
+.h1 {
+    font-size: 3em;
+}
+
+.h2 {
+    font-size: 2.2em;
+}
+
+/* Child Selector */
+main section p {
+    font-size: 1.2em;
+}
+
